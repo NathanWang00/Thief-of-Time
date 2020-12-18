@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: 9ce1e01ced3177641933e6f16588e711
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4361805931570548191
+    second: TestAttack 1_0
+  - first:
+      213: 8110365120658293285
+    second: TestAttack 1_1
+  - first:
+      213: -8288817209588277984
+    second: TestAttack 1_2
+  - first:
+      213: 4674417928962194655
+    second: TestAttack 1_3
+  - first:
+      213: 5191562493695902261
+    second: TestAttack 1_4
+  - first:
+      213: 3050142100447815985
+    second: TestAttack 1_5
+  - first:
+      213: -629121104553465183
+    second: TestAttack 1_6
+  - first:
+      213: 1459075600848328830
+    second: TestAttack 1_7
+  - first:
+      213: 6674393482258108452
+    second: TestAttack 1_8
+  - first:
+      213: 869680767088810984
+    second: TestAttack 1_9
+  - first:
+      213: 3108804801530979606
+    second: TestAttack 1_10
+  - first:
+      213: -7641478481327699810
+    second: TestAttack 1_11
+  - first:
+      213: -8792591336523260614
+    second: TestAttack 1_0
+  - first:
+      213: -2095409187233800660
+    second: TestAttack 1_1
+  - first:
+      213: -7601591649239831171
+    second: TestAttack 1_2
+  - first:
+      213: 4723917430350119329
+    second: TestAttack 1_3
+  - first:
+      213: -2447903169659751024
+    second: TestAttack 1_4
+  - first:
+      213: -7738510470024181531
+    second: TestAttack 1_5
+  - first:
+      213: 6718287307301701891
+    second: TestAttack 1_6
+  - first:
+      213: 2113309883717627850
+    second: TestAttack 1_7
+  - first:
+      213: -287031900411922413
+    second: TestAttack 1_8
+  - first:
+      213: 3866750488045338440
+    second: TestAttack 1_9
+  - first:
+      213: 7176040530881974169
+    second: TestAttack 1_10
+  - first:
+      213: 532459687799586076
+    second: TestAttack 1_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TestAttack 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 154
+        height: 142
+      alignment: 9
+      pivot: {x: 0.243, y: 0.507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d9a5bb3c07af580800000000000000
+      internalID: -8792591336523260614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestAttack 1_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 284
+        width: 154
+        height: 142
+      alignment: 9
+      pivot: {x: 0.243, y: 0.507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ed6d7327c9be2e0800000000000000
+      internalID: -2095409187233800660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestAttack 1_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 284
+        width: 154
+        height: 142
+      alignment: 9
+      pivot: {x: 0.243, y: 0.507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7deb738ba8b18690800000000000000
+      internalID: -7601591649239831171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestAttack 1_3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 284
+        width: 154
+        height: 142
+      alignment: 9
+      pivot: {x: 0.243, y: 0.507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a18b40efd9be8140800000000000000
+      internalID: 4723917430350119329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestAttack 1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 154
+        height: 142
+      alignment: 9
+      pivot: {x: 0.243, y: 0.507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095b0e7690d470ed0800000000000000
+      internalID: -2447903169659751024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestAttack 1_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 142
+        width: 154
+        height: 142
+      alignment: 9
+      pivot: {x: 0.243, y: 0.507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e841975ab94b9490800000000000000
+      internalID: -7738510470024181531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestAttack 1_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 142
+        width: 154
+        height: 142
+      alignment: 9
+      pivot: {x: 0.243, y: 0.507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309cbb206b62c3d50800000000000000
+      internalID: 6718287307301701891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestAttack 1_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 142
+        width: 154
+        height: 142
+      alignment: 9
+      pivot: {x: 0.243, y: 0.507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfaf47742cf35d10800000000000000
+      internalID: 2113309883717627850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestAttack 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 154
+        height: 142
+      alignment: 9
+      pivot: {x: 0.243, y: 0.507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318fdb0e102440cf0800000000000000
+      internalID: -287031900411922413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestAttack 1_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 154
+        height: 142
+      alignment: 9
+      pivot: {x: 0.243, y: 0.507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fb20bf41579a530800000000000000
+      internalID: 3866750488045338440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestAttack 1_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 154
+        height: 142
+      alignment: 9
+      pivot: {x: 0.243, y: 0.507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f8601b7da669360800000000000000
+      internalID: 7176040530881974169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestAttack 1_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 154
+        height: 142
+      alignment: 9
+      pivot: {x: 0.243, y: 0.507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d7284d34da36700800000000000000
+      internalID: 532459687799586076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
